@@ -1,0 +1,17 @@
+click            
+dnspython        
+email-validator  
+Flask            
+Flask-SQLAlchemy 
+Flask-WTF        
+greenlet         
+idna             
+itsdangerous     
+Jinja2           
+MarkupSafe       
+pip              
+setuptools       
+SQLAlchemy       
+Werkzeug         
+wheel            
+WTForms          
